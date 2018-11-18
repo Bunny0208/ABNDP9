@@ -1,0 +1,55 @@
+<resources>
+
+
+    <string name="app_name">ABNDP9</string>
+
+
+    <string name="empty_view_textview">Get started by adding a kit</string>
+
+
+    <string name="label_product_overview">Product Overview</string>
+    <string name="edit_product_name">Product Name</string>
+    <string name="edit_price">Unit Price</string>
+    <string name="edit_quantity">Quantity</string>
+    <string name="label_supplier_overview">Supplier Overview</string>
+    <string name="edit_supplier_name">Supplier Name</string>
+    <string name="edit_supplier_contact">Supplier Contact</string>
+    <string name="button_minus_sign">-</string>
+    <string name="button_plus_sign">+</string>
+    <string name="minimum_quantity">0</string>
+
+
+    <string name="action_save">Save</string>
+    <string name="action_contact_supplier">Contact Supplier</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="label_name">Cricket bats</string>
+    <string name="label_price">Price:</string>
+    <string name="label_quantity">Quantity:</string>
+    <string name="price_for_single_item">(Price for single item)</string>
+    <string name="button_sale">Sale</string>
+
+
+    <string name="error_while_deleting_kit">Error while deleting kit items</string>
+    <string name="all_kit_deleted">All kit items deleted</string>
+    <string name="delete_all_kit">Delete All Kit Items</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="add_a_Kit">Add a Kit Item</string>
+    <string name="edit_kit">Edit Kit Item</string>
+    <string name="required">Required</string>
+    <string name="price_cannot_be_negative">Price cannot be negative</string>
+    <string name="quantity_cannot_be_negative">Quantity cannot be negative</string>
+    <string name="editor_insert_kit_failed">Error while saving Kit</string>
+    <string name="editor_insert_kit_successful">Kit Saved</string>
+    <string name="editor_update_kit_failed">Error with updating Kit</string>
+    <string name="editor_update_kit_successful">Kit Item Updated</string>
+    <string name="error_deleting_kit">Error while deleting kit</string>
+    <string name="kit_deleted">Kit Item Deleted</string>
+    <string name="discard_changes_and_quit_editing">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_this_kit">Delete this Kit Item?</string>
+</resources>
